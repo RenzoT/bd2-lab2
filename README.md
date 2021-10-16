@@ -1,4 +1,4 @@
 # bd2-lab2
 Integrantes:
--Mauricio Rodriguez
+-Mauricio Rodriguez \\
 -Renzo Tenazoa
