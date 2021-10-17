@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mauri/Documents/UTEC/BD II/Labs/bd2-lab2/Registro.h
+iostream
+-
+
+C:/Users/mauri/Documents/UTEC/BD II/Labs/bd2-lab2/SequentialFile.h
+string.h
+-
+fstream
+-
+vector
+-
+Registro.h
+C:/Users/mauri/Documents/UTEC/BD II/Labs/bd2-lab2/Registro.h
+algorithm
+-
+
+C:/Users/mauri/Documents/UTEC/BD II/Labs/bd2-lab2/main.cpp
+iostream
+-
+string.h
+-
+SequentialFile.h
+C:/Users/mauri/Documents/UTEC/BD II/Labs/bd2-lab2/SequentialFile.h
+vector
+-
+
